@@ -1,6 +1,6 @@
     import java.util.Scanner;
 
-public class Main{
+public class Ex1{
 
     public static void main(String[] args) {
         // TODO code application logic here
@@ -10,7 +10,7 @@ public class Main{
         if (numero%2==0)
         {System.out.println("O numero "+numero+" e par");}
         else
-        {System.out.println("O numero "+numero+" e impar");}
+        {System.out.println("O numero "+numero+" e ímpar");}
     }
     
 }
