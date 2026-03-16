@@ -8,7 +8,7 @@ public class Ex14{
         System.out.println("Digite a distância");int distancia = scanner.nextInt();
         System.out.println("Digite o consumo do carro (km/L)");double consumo = scanner.nextDouble();
         
-    double litros= distancia*consumo;
+    double litros= distancia/consumo;
     
     System.out.println("Serão gastos "+litros+" litros na viagem");
         
