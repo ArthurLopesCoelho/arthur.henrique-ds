@@ -1,12 +1,15 @@
-public class Main
-{
+public class Matematica {
+    public static void main(String[] args){
+        //int resultado = soma(1,3);
+        System.out.println(soma(1,2));
+    }
 
-
-public void soma(int num1,int num2){
+public static int soma(int num1,int num2){
     
 
-    System.out.println(num1+num2);
+    return num1+num2;
+}
 }
 
-numero1.soma(1,4);	
-}
+	
+

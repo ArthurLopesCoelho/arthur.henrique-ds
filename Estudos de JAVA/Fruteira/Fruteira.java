@@ -10,3 +10,4 @@ public class Fruteira{
     System.out.println("Temos "+banana.quantidade+" "+banana.nome+" da cor "+banana.color+" e tem como nome cientifico de "+banana.nome_science+" com uma textura "+banana.textura);
     }
 }
+
